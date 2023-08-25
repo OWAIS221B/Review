@@ -30,6 +30,7 @@ const reviews = [
   },
 ];
 // select items
+/*
 const img = document.getElementById('person-img');
 const author = document.getElementById('author');
 const job = document.getElementById('job');
@@ -82,3 +83,8 @@ randomBtn.addEventListener('click', function () {
   currentItem = Math.floor(Math.random() * reviews.length);
   showPerson(currentItem);
 });
+*/
+
+// select items
+
+
